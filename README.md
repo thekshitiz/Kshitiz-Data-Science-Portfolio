@@ -52,9 +52,11 @@ cd project-folder-name
 
 Thank you for exploring my Data Science Portfolio! I’m always excited to collaborate on new projects, learn from others, and grow my skills. If you’re interested in working together, have any questions, or just want to chat about data science, feel free to reach out to me!
 
-- **Personal Website**: <a href="https://kshitizrai.com.np/" target="_blank">kshitizrai.com.np</a>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/kshitizrai/" target="_blank">linkedin.com/in/kshitizrai/</a>
-- **Email**: <a href="mailto:hello@kshitizrai.com.np" target="_blank">hello@kshitizrai.com.np</a>
+- **Personal Website**: [kshitizrai.com.np](https://kshitizrai.com.np)
+- **LinkedIn**: [linkedin.com/in/kshitizrai](https://www.linkedin.com/in/kshitizrai/)
+- **Email**: [hello@kshitizrai.com.np](mailto:hello@kshitizrai.com.np)
+
+*Tip: Use **Ctrl + Click** (Windows/Linux) or **Cmd + Click** (Mac) to open links in a new tab.*
 
 I look forward to connecting and creating something amazing together! Let’s turn ideas into impact! 🌟
 
