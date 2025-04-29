@@ -14,6 +14,7 @@ Created and maintained by [Kshitiz Rai](https://kshitizrai.com.np/).
 | 1    | `E-com-Sales-Data-Analysis`      | Analysis of e-commerce sales data to uncover trends and insights. | [View README](./E-com-Sales-Data-Analysis/README.md)   | Completed ✅    |
 | 2    | `Portfolio-Project-Automatidata` | Automating data analysis workflows for improved efficiency.       | [View README](./Portfolio-Project-Automatidata/README.md) | In Progress ⚒️  |
 | 3    | `excelerate-data-analysis`       | Data analysis project from Excelerate internship, focusing on predictive analytics. | [View README](./excelerate-data-analysis/README.md)    | Completed ✅    |
+| 4    | `British Airways Data Science: Predicting Customer Buying Behaviour`       | Predicting Customer Buying Behaviour through data of British Airways. | [View README](British Airways Data Science Project/readme.md)    | Completed ✅    |
 
 ---
 
