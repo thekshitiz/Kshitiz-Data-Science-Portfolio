@@ -1,4 +1,4 @@
-# 🇬🇧 British Airways Data Science Simulation – Forage
+# 🇬🇧 British Airways Data Science: Predicting Customer Buying Behaviour
 
 This repository contains my completed tasks from the **British Airways Data Science Virtual Experience Program** hosted on [Forage](https://www.theforage.com/), where I gained hands-on experience in using data science to drive business decisions at a global airline.
 
@@ -64,14 +64,17 @@ Train a machine learning model to predict whether a customer would complete a bo
 ```bash
 british-airways-ds-simulation/
 │
-├── task-1-web-scraping/
-│   ├── ba_reviews_scraper.ipynb
-│   ├── customer_insights.pptx
+├── data/
+│   ├── BA_reviews.csv
+│   ├── customer_booking.csv
+    ├── feature_importances.csv
 │
-├── task-2-predictive-modelling/
-│   ├── customer_buying_prediction.ipynb
-│   ├── Customer Booking.csv
-│   ├── model_output_slide.pptx
+├── notebooks/
+│   ├── customer_booking_prediction
+│   ├── review_analysis
+│   ├── web_scraper
+|   ├──feature_importances.csv
+|
 │
 ├── README.md
 ```
@@ -105,6 +108,3 @@ Imagine you’re a data scientist at British Airways. First, you gather customer
 Participating in this virtual experience confirmed my passion for turning data into decisions. It also showcased how data scientists at companies like British Airways blend analytical rigor with real business context — and that's exactly where I see myself contributing.
 
 ---
-
-## 📌 Takeaway Hashtags  
-#DataScience #BritishAirways #WebScraping #CustomerInsights #PredictiveModeling #ForageExperience #Python #MachineLearning #RealWorldData #JupyterNotebooks
